@@ -98,8 +98,6 @@ function draw(){
     fill("white")
     text("pontos:"+pontos,500,50)
     
-
-  dinex.debug = true
     
   
     //criando gravidade
